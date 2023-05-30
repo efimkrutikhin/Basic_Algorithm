@@ -1,0 +1,15 @@
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.csproj.AssemblyReference.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.AssemblyInfoInputs.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.AssemblyInfo.cs
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.csproj.CoreCompileInputs.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\bin\Debug\net6.0\урок 2. Базовые алгоритмы.exe
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\bin\Debug\net6.0\урок 2. Базовые алгоритмы.deps.json
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\bin\Debug\net6.0\урок 2. Базовые алгоритмы.runtimeconfig.json
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\bin\Debug\net6.0\урок 2. Базовые алгоритмы.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\bin\Debug\net6.0\урок 2. Базовые алгоритмы.pdb
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\refint\урок 2. Базовые алгоритмы.dll
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.pdb
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\урок 2. Базовые алгоритмы.genruntimeconfig.cache
+C:\Users\efimk\OneDrive\Рабочий стол\Geekbrains\семинары\Знакомство с языками программирования\урок 2. Базовые алгоритмы\obj\Debug\net6.0\ref\урок 2. Базовые алгоритмы.dll

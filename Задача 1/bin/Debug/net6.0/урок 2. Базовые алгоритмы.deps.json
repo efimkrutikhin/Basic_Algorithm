@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "урок 2. Базовые алгоритмы/1.0.0": {
+        "runtime": {
+          "урок 2. Базовые алгоритмы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "урок 2. Базовые алгоритмы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
